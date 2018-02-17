@@ -1,0 +1,26 @@
+body {
+    background: #a63e14;
+    max-width: 1080px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    font-size: 5vmax;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: #e4e6dd;
+}
+
+button {
+    background: #a63e14;
+    font-size: 5vmax;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: #e4e6dd;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+button:hover {
+    background: grey;
+}
